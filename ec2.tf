@@ -67,7 +67,7 @@ resource "aws_instance" "main-5" {
  
 
   tags = {
-    Name = "website_test_II"
+    Name = "website_test_2"
   }
 }
 
